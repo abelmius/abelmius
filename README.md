@@ -1,4 +1,10 @@
-### Hi there 👋
+### AI is here 👋
+
+## Just started my AI journey
+
+- Tensorflow/Pytorch
+- Convolutional Neural Networks
+- Recurrent Neural Networks
 
 <!--
 **abelmius/abelmius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
